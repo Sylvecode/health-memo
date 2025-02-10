@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title" style={{ color: 'green' }}>Health Memo</ThemedText>
+        <ThemedText type="title" style={{ color: 'green'}}>Health Memo</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
